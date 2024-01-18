@@ -15,3 +15,10 @@ h1 {
     padding: 10px;
     text-align: right;
   }
+td{
+    color: black;
+
+}
+tr{
+    text-align: left;
+}
