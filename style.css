@@ -1,0 +1,17 @@
+h1 {
+    color:black;
+    font-weight: bold;
+}
+.class1{
+    background-color:gray;
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.center {
+    margin: auto;
+    padding: 10px;
+    text-align: right;
+  }
